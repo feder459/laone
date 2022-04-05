@@ -1,3 +1,2 @@
-# laone
-Mi primer maqueteado web
+# HTML y CSS
 Proyecto elaborado usando CSS y HTML del primer módulo de FreeCodeCamp
